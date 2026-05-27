@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokensalidate",
+        "uuid": 564540,
+        "checksum": "wkq8cl"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
